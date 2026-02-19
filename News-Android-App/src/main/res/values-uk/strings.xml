@@ -79,7 +79,7 @@
     <string name="toast_img_download_wait">Звантаження. Будь ласка, зачекайте…</string>
     <string name="toast_img_saved">Зображення збережено</string>
     <string name="toast_img_notwriteable">Помилка із записом зображення.</string>
-    <string name="toast_copied_to_clipboard">Скопійовано в буфер обміну</string>
+    <string name="toast_copied_to_clipboard">Скопійовано до буфера обміну</string>
     <string name="error_download_failed">Звантаження не вдалося</string>
     <string name="intent_title_share">Поділитися через</string>
 
