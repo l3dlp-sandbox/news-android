@@ -10,6 +10,7 @@
     <string name="do_you_want_to_download_without_wifi">¿Quiere descargar las imágenes sin conexión WiFi?</string>
     <string name="current_version">Está utilizando la versión %s</string>
     <string name="widget_header">Noticias de Nextcloud</string>
+    <string name="message_bar_scroll_top">Recargar y desplazarse hacia arriba</string>
     <plurals name="message_bar_new_articles_available">
         <item quantity="one">%d nuevo elemento disponible</item>
         <item quantity="many">%d nuevos elementos disponibles</item>
@@ -178,6 +179,7 @@
     <string name="pref_title_DisableHostnameVerification">Deshabilitar verificación del hostname</string>
     <string name="pref_title_NavigateWithVolumeButtons">Navegar con los botones de volumen</string>
     <string name="pref_title_MarkAsReadWhileScrolling">Marcar como leído mientras se desplaza</string>
+    <string name="pref_title_SyncWhenScrolledToBottom">Sincronizar cuando se desplace hacia abajo</string>
     <string name="pref_title_ShowFastActions">Activar funciones de acceso rápido</string>
     <string name="pref_title_OpenInBrowserDirectly">Saltarse la vista detallada y abrir el artículo en el navegador</string>
     <string name="pref_title_BackButtonOpensDrawer">Botón de retroceso abre el cajón</string>
@@ -232,6 +234,9 @@
 
     <string name="pref_oled_mode">Fondo oscuro</string>
     <string name="pref_oled_mode_summary">Para el tema oscuro en las pantallas OLED</string>
+
+    <string name="pref_detailed_view_zoom">Vista de zoom detallada</string>
+    <string name="pref_detailed_view_zoom_summary">Activar zoom del contenido en la vista detallada</string>
 
     <string name="pref_external_player">Reproductor Externo</string>
     <string name="pref_external_player_summary">Reproducir Podcasts en su app de medios por defecto</string>
