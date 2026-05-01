@@ -9,7 +9,7 @@
     <string name="no_wifi_available">Nėra prijungtas WiFi</string>
     <string name="do_you_want_to_download_without_wifi">Ar norite atsisiųsti paveikslus be Wi-Fi ryšio?</string>
     <string name="current_version">Jūs naudojate versiją %s</string>
-    <string name="widget_header">Nextcloud naujienos</string>
+    <string name="widget_header">Nextcloud Naujienos</string>
     <string name="message_bar_scroll_top">Įkelti iš naujo ir slinkti į viršų</string>
     <plurals name="message_bar_new_articles_available">
         <item quantity="one">Yra prieinamas %d naujas elementas</item>
